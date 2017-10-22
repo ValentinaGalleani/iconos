@@ -1,0 +1,49 @@
+div{
+	width: 300px;
+	float: left;	
+}
+
+div.iconografía{
+	width: 200px;
+	height: 100px;
+	text-align: center;
+	color: gray;
+	padding: 20px;
+	bottom: -50px;
+}
+
+.fa{
+	font-size: 110px;
+	text-align: center;
+	color: gray;
+	position: static;
+}
+
+.fa:hover{
+	font-size: 130px;
+	color: purple;
+	margin-bottom: 30px;
+
+}
+
+div.iconografia:hover{
+	color: purple;
+	cursor: pointer;
+}
+
+p{
+	font-family: 'Rajdhani', sans-serif;
+	justify-content: left;
+	text-align: justify;
+}
+
+i{
+	margin-bottom: -200px;
+
+}
+
+h3, h5{
+	font-family: 'Kurale', serif;
+	font-weight: bold;
+	margin-top: 20px;
+}
